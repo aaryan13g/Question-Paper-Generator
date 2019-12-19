@@ -1,0 +1,11 @@
+First create a new database in your localhost. Here I have used the name of DB as "qpapergen".
+Create a table Users with columns as id, usertype, username, password, created_at .
+Create a table Topics with columns as sr_no, subject_code, subject_name .
+Create a table Questions with columns as subject, difficulty, marks, timing, question, uploaded_by .
+
+This question paper generator has the following features :-
+- Two login modes - teacher and admin
+- Teacher can add new questions for existing topics and generate random question papers according to their requirement.
+- Admin can handle all the contact requests and create any new topics.
+- The question paper is generated in a .rtf file in the local directory.
+- A simplistic CSS environment.
