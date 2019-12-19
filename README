@@ -8,4 +8,5 @@ This question paper generator has the following features :-
 - Teacher can add new questions for existing topics and generate random question papers according to their requirement.
 - Admin can handle all the contact requests and create any new topics.
 - The question paper is generated in a .rtf file in the local directory.
-- A simplistic CSS environment.
+- A simplistic CSS and HTML environment.
+- Simple use of DBMS.
